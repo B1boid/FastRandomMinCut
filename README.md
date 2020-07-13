@@ -1,1 +1,1 @@
-Практика в компании [a link](https://clain.io) 
+Практика в компании [Clain](https://clain.io) 
